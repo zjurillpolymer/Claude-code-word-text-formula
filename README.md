@@ -82,6 +82,3 @@ LaTeX formula
 
 Fractions, sub/superscripts, Greek letters, sums/integrals with limits, radicals, matrices, operators like `\mathbf`, `\langle`/`\rangle`, `\exp`, `\sin`, etc. — anything pandoc supports.
 
-## License
-
-MIT
